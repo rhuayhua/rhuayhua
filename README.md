@@ -8,7 +8,7 @@ Current student in Artificial Intelligence AI program; strong problem solving an
 You can contact me by email (r.huayhua@pucp.pe) or on [LinkedIn](https://www.linkedin.com/in/rhuayhua/)
 
 # Some of my Github stats     
-![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuayhua&show_icons=true&theme=radical)
 <!--
 **rhuayhua/rhuayhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
