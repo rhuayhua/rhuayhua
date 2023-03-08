@@ -4,6 +4,9 @@
 
 Current student in Artificial Intelligence AI program; strong problem solving and analytical skills to extract meaningful insight from data and assist stakeholders to transform business needs into technical requirements. Ability to learn new technologies and develop a deep understanding of technical systems and data.
 
+# How to reach me:
+You can contact me by email (r.huayhua@pucp.pe) or on <https://www.linkedin.com/in/rhuayhua/>
+
 <!--
 **rhuayhua/rhuayhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
