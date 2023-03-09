@@ -20,7 +20,7 @@ You can contact me by email (r.huayhua@pucp.pe) or on [LinkedIn](https://www.lin
 <hr/>
 
 # Technical skills
-| Tables   |      Are      |
+
 |----------|:-------------:|
 | Programming |  Python, Java, JavaScript, Bash scripting, SQL, C, PL/SQL, MATLAB |
 | ML packages |    Windows, Unix, Linux  |
