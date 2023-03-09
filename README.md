@@ -25,7 +25,7 @@ You can contact me by email (r.huayhua@pucp.pe) or on [LinkedIn](https://www.lin
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 | Programming |  Python, Java, JavaScript, Bash scripting, SQL, C, PL/SQL, MATLAB |
-| ML packages |    Windows, Unix, Linux  |
+| ML packages |    NumPy, Pandas, Matplotlib, Scikit-Learn, NLTK  |
 | Operating Systems | Windows, Unix, Linux |
 | Databases| MySQL, MongoDB|
 | Frameworks| Node.js, Express, Flask|
