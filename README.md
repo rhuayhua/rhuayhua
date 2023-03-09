@@ -3,7 +3,7 @@
 ![Welcome image](banner-rudy.png)
 
 Current student in Artificial Intelligence AI program; strong problem solving and analytical skills to extract meaningful insight from data and assist stakeholders to transform business needs into technical requirements. Ability to learn new technologies and develop a deep understanding of technical systems and data.
-
+<hr/>
 # How to reach me:
 You can contact me by email (r.huayhua@pucp.pe) or on [LinkedIn](https://www.linkedin.com/in/rhuayhua/)
 
@@ -13,6 +13,7 @@ You can contact me by email (r.huayhua@pucp.pe) or on [LinkedIn](https://www.lin
 - Cloud development
 - Machine learning
 - Test automation
+<hr/>
 
 # Some of my Github stats     
 ![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuayhua&show_icons=true&theme=dracula)
