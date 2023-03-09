@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=rhuayhua&color=blue&style=flat-square)
+
 ### Hi there 👋
 
 ![Welcome image](banner-rudy.png)
