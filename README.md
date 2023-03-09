@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=rhuayhua&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=rhuayhua&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 ### Hi there 👋
 
