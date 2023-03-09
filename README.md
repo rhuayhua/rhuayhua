@@ -22,9 +22,9 @@ You can contact me by email (r.huayhua@pucp.pe) or on [LinkedIn](https://www.lin
 # Technical skills
 | Tables   |      Are      |
 |----------|:-------------:|
-| col 1 is |  left-aligned |
-| col 2 is |    centered   |
-| col 3 is | right-aligned |
+| Programming |  Python, Java, JavaScript, Bash scripting, SQL, C, PL/SQL, MATLAB |
+| ML packages |    Windows, Unix, Linux  |
+| Operating Systems | right-aligned |
 
 
 # Some of my Github stats     
