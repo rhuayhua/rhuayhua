@@ -7,6 +7,13 @@ Current student in Artificial Intelligence AI program; strong problem solving an
 # How to reach me:
 You can contact me by email (r.huayhua@pucp.pe) or on [LinkedIn](https://www.linkedin.com/in/rhuayhua/)
 
+# I'm currently working/learning on:
+- Web development
+- Android development
+- Cloud development
+- Machine learning
+- Test automation
+
 # Some of my Github stats     
 ![Rudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuayhua&show_icons=true&theme=dracula)
 <!--
