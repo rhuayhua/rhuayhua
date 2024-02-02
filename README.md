@@ -6,7 +6,7 @@
 
 # About me
 
-I am a current student in Artificial Intelligence AI program, a software engineering professional with 7+ years of IT industry experience. Strong problem solving and analytical skills to extract meaningful insight from data and assist stakeholders to transform business needs into technical requirements.
+I am a software engineering professional with 7+ years of IT industry experience. Strong problem solving and analytical skills to extract meaningful insight from data and assist stakeholders to transform business needs into technical requirements.
 <hr/>
 
 # I'm currently learning/working on:
